@@ -1,0 +1,11 @@
+Ejercicio				enlace							modulo
+OLED					https://wokwi.com/projects/327504487644136018	
+funciones (8 leds movimiento)		https://wokwi.com/projects/326408107029693011	
+display 7 segmentos			https://wokwi.com/projects/326939055885386323	
+listas 8 leds				https://wokwi.com/projects/326394046732829266	
+distancia python 			https://wokwi.com/projects/327506272780812882		src04
+Sensor pir				https://wokwi.com/projects/327506532038083155	
+potenciometro				https://wokwi.com/projects/327505645030867538	
+LDR					https://wokwi.com/projects/327505903884436052	
+temperatura y humedad			https://wokwi.com/projects/327657237140996690	
+servo					https://wokwi.com/projects/327660988963750484	
