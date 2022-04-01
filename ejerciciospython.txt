@@ -1,4 +1,4 @@
-Ejercicio				enlace							modulo
+Ejercicio				enlace							modulo 2022
 OLED					https://wokwi.com/projects/327504487644136018	
 funciones (8 leds movimiento)		https://wokwi.com/projects/326408107029693011	
 display 7 segmentos			https://wokwi.com/projects/326939055885386323	
